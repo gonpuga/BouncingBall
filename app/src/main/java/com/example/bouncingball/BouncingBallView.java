@@ -6,10 +6,6 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 
-/**
- * Created by Gonzalo on 05/11/2017.
- */
-
 public class BouncingBallView extends SurfaceView
         implements SurfaceHolder.Callback {
 

@@ -6,10 +6,6 @@ import android.graphics.drawable.BitmapDrawable;
 import android.view.MotionEvent;
 import android.view.SurfaceView;
 
-/**
- * Created by Gonzalo on 05/11/2017.
- */
-
 public class BouncingBallThread extends Thread {
     // Número de actualizaciones por segundo que hace el hilo
     static final long FPS = 10;
